@@ -25,13 +25,6 @@ I am curently a student and part-time a coder. Thanks for visiting and I'd love 
 ---
 ### 🔥 My Stats:
 
-![Leetcode Stats](https://leetcard.tginwtc.cool/lapor?ext=heatmap)
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mart-igor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mart-igor&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_green&show_icons=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/tginwtc?theme=wtf&font=patrick_hand&ext=contest)
