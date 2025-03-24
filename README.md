@@ -36,21 +36,19 @@
 ---
 
 ### 🔥 My Stats:
-
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/tginwtc?theme=wtf&font=patrick_hand&ext=contest" alt="LeetCode Stats">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mart-igor&layout=pie" alt="Top Langs"> 
-  </a>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mart-igor&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages">
+  <!-- LeetCode Stats с изменённым размером -->
+  <img src="https://leetcard.jacoblin.cool/tginwtc?theme=wtf&font=patrick_hand&ext=contest" alt="LeetCode Stats" width="400" height="150">
 </div>
 
 ### 🔥 My projects:
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/tginwtc?theme=wtf&font=patrick_hand&ext=contest" alt="LeetCode Stats">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mart-igor&layout=pie" alt="Top Langs"> 
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mart-igor&repo=stationary_app&theme=material-palenight&show_icons=true" alt="Repo Card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mart-igor&repo=stationary_app&theme=material-palenight&show_icons=true" alt="Repo Card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mart-igor&repo=stationary_app&theme=material-palenight&show_icons=true" alt="Repo Card">
 </div>
 
 
