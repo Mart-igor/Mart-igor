@@ -2,19 +2,20 @@
 <h1>Hi, I'm Igor 👋</h1>
 <h3>I am curently a student and part-time a coder. Thanks for visiting and I'd love to <a href="https://github.com/Mart-igor/Mart-igor/edit/main/README.md">connect</a>!</h3>
 </div>
-<div id="socials" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mart-igor&style=flat-square&color=blue" alt=""/>
-  <a href="telegram-url">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badgedlogo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
 
-### 👨‍💻 About Me:
+---  
 
-- I’m currently looking for a job
-- 💬 Ask me about anything
-- 📫 How to reach me: <a href="mailto:myemail@example.com">myemail@example.com</a>
-- 🌐 Check out my CV: <a href="https://your-portfolio-url.com">My Portfolio</a>
+🐍 **Python-разработчик** с широким спектром интересов — от веб-разработки и игр до desktop-приложений и машинного обучения.  
+💡 Люблю экспериментировать с разными технологиями, создавая проекты применяя: автоматизацию, анализ данных, нейросети и не только.  
+🚀 В свободное время погружаюсь в пет-проекты, исследую новые библиотеки и frameworks, а также делюсь знаниями в open-source.  
+
+### 🌟 Активные проекты:  
+- **[GUI_for_identifying_stationary_mode](https://github.com/Mart-igor/GUI_for_identifying_stationary_mode)** — *User-friendly graphical interface for determining stationary operating modes of technological processe.* 
+- **[Online_store_of_celestial_objects](https://github.com/Mart-igor/Online_store_of_celestial_objects)** — *Discover the universe from your screen - A Django-powered marketplace for cosmic collectibles, featuring secure Stripe payments.*  
+- **Telegram-bot** — *Extension for first Django-project*.  
+- **Game** — *in progress*.
+
+Если тебе интересны мои работы — заглядывай в репозитории, ставь ⭐!
 
 ---
 
@@ -41,14 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mart-igor&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages">
   <!-- LeetCode Stats с изменённым размером -->
   <img src="https://leetcard.jacoblin.cool/tginwtc?theme=wtf&font=patrick_hand&ext=contest" alt="LeetCode Stats" width="400" height="150">
-</div>
-
-### 🔥 My projects:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mart-igor&repo=stationary_app&theme=material-palenight&show_icons=true" alt="Repo Card">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mart-igor&repo=stationary_app&theme=material-palenight&show_icons=true" alt="Repo Card">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mart-igor&repo=stationary_app&theme=material-palenight&show_icons=true" alt="Repo Card">
 </div>
 
 
