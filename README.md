@@ -13,7 +13,7 @@
 - **[GUI_for_identifying_stationary_mode](https://github.com/Mart-igor/GUI_for_identifying_stationary_mode)** — *User-friendly graphical interface for determining stationary operating modes of technological processe.* 
 - **[Online_store_of_celestial_objects](https://github.com/Mart-igor/Online_store_of_celestial_objects)** — *Discover the universe from your screen - A Django-powered marketplace for cosmic collectibles, featuring secure Stripe payments.*  
 - **Telegram-bot** — *Extension for first Django-project*.  
-- **Game** — *in progress*.
+- **[pacman_game](https://github.com/Mart-igor/pacman_game)** — *This project implements the canonical Pacman game as a testbed for integrating four fundamental pathfinding algorithms.*
 
 Если тебе интересны мои работы — заглядывай в репозитории, ставь ⭐!
 
